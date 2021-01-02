@@ -1,0 +1,7 @@
+main: OreGenerator.Main
+name: EndlessOreGenerators
+version: 1.0.0
+commands:
+  oregenerator:
+    usage: /<command>
+    description: Gets you a OreGenerator!

@@ -1,0 +1,4 @@
+Messages:
+  OreGenUsage: '&cSomething went wrong. Try /oregenerator <Ore> <MaxOres> <TimeToRegenNewORe>'
+  NoPermission: '&cYou dont have permission to do this!'
+  OresLeft: '&bThere are %amount% left!'

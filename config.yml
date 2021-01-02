@@ -1,0 +1,5 @@
+ItemFromCommand:
+  Name: '&bOreGenerator: &b&l%ore%'
+  Lore:
+  - '&b%ore% generates %amount% per hour'
+  - '&b %ore%s max capacity is %max%'
